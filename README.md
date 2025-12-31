@@ -6,7 +6,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <img alt="9s Fist Bump" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGltcHEzMGlhMnExNjFwdDZjaHRwajl6NHY1bHcxZW9hZzc4ZG41dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uU5A1TcwwU5Og/giphy.gif" width="20%" height="20%" align="right"/>
-### 🧠 &nbsp;𝔸𝕀, 𝔻𝕖𝕖𝕡 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 & 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥
+🧠 &nbsp;𝔸𝕀, 𝔻𝕖𝕖𝕡 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 & 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥
 
 
 I am a developer on a journey into the world of Artificial Intelligence. My focus is on understanding the math behind the models and writing clean, efficient code for Deep Learning applications.
