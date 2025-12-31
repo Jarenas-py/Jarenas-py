@@ -1,14 +1,14 @@
 <img alt="Yorha Bunker" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh3M3N0ZzhlbXRhdmxwMTQzbWtpMTJ6cGJxcnNkbHBqeW8xOGhjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqkuqNBLpFxmbBhYR1/giphy.gif" width="100%" align="center"/>
 
 <div align="center">
-  <h1>𝘱𝘳𝘪𝘯𝘵("𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥! 𝘐'𝘮 𝘑𝘰𝘴𝘦𝘱𝘩!")</h1>
+  <h1>_𝘱𝘳𝘪𝘯𝘵("𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥! 𝘐'𝘮 𝘑𝘰𝘴𝘦𝘱𝘩!")_</h1>
 </div>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <img alt="9s Fist Bump" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGltcHEzMGlhMnExNjFwdDZjaHRwajl6NHY1bHcxZW9hZzc4ZG41dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uU5A1TcwwU5Og/giphy.gif" width="20%" height="20%" align="right"/>
-🧠 &nbsp;𝘈𝘐, 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 & 𝘋𝘦𝘦𝘱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵. I am a developer on a journey into the world of Artificial Intelligence. My focus is on understanding the math behind the models and writing clean, efficient code for Deep Learning applications.<br></br>
+🧠 &nbsp;_𝘈𝘐, 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 & 𝘋𝘦𝘦𝘱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵_. I am a developer on a journey into the world of Artificial Intelligence. My focus is on understanding the math behind the models and writing clean, efficient code for Deep Learning applications.<br></br>
   
-  𝘈𝘳𝘦𝘢𝘴 𝘰𝘧 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵:
+  _𝘈𝘳𝘦𝘢𝘴 𝘰𝘧 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵:_
     
   - Machine Learning (Supervised/Unsupervised)<br>
   - Deep Learning & Neural Networks<br>
@@ -16,19 +16,7 @@
   - Data Science & Analytics
 
 
-### 🛠 &nbsp;𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-### ⚙️ &nbsp;𝘎𝘪𝘵𝘏𝘶𝘣 𝘈𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴
+### ⚙️ &nbsp;_𝘎𝘪𝘵𝘏𝘶𝘣 𝘈𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴_
 
 <p align="center">
 <a href="https://github.com/Jarenas-py">
@@ -38,7 +26,30 @@
 </p>
 
 
-### 🤝🏻 &nbsp;𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦
+### 🛠 &nbsp;_𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬_
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+</div>
+
+
+### 💻 &nbsp;_𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘖𝘯..._
+
+![](https://github-contributor-stats.vercel.app/api?username=Jarenas-py&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🤝🏻 &nbsp;_𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦_
 
 <p align="left">
 <a href="https://www.linkedin.com/in/joseph-arenas-919564327/"><img src="https://img.shields.io/badge/-Joseph%20Arenas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
