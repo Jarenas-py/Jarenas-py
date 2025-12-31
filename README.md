@@ -24,6 +24,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jarenas-py&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 📜 &nbsp; Certifications
+<!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/445683ed-e720-4480-866c-ba9be90041c8" title="AI Fundamentals with IBM SkillsBuild"><img src="https://images.credly.com/size/80x80/images/26c21273-c0ab-485b-98a7-f1212dcb82b8/image.png" alt="AI Fundamentals with IBM SkillsBuild" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/2c2a9e30-f0b2-4171-9d53-ffd4830e8925" title="Artificial Intelligence Fundamentals"><img src="https://images.credly.com/size/80x80/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="Artificial Intelligence Fundamentals" width="80" height="80"></a>
+<!--END_SECTION:badges-->
 <hr>
 
 ### 🛠 &nbsp;𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬
@@ -55,8 +61,3 @@
 <a href="https://www.linkedin.com/in/joseph-arenas-919564327/"><img src="https://img.shields.io/badge/-Joseph%20Arenas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/GnngMstr"><img src="https://img.shields.io/badge/-@GnngMstr-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
-<!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/445683ed-e720-4480-866c-ba9be90041c8" title="AI Fundamentals with IBM SkillsBuild"><img src="https://images.credly.com/size/80x80/images/26c21273-c0ab-485b-98a7-f1212dcb82b8/image.png" alt="AI Fundamentals with IBM SkillsBuild" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/2c2a9e30-f0b2-4171-9d53-ffd4830e8925" title="Artificial Intelligence Fundamentals"><img src="https://images.credly.com/size/80x80/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="Artificial Intelligence Fundamentals" width="80" height="80"></a>
-<!--END_SECTION:badges-->
