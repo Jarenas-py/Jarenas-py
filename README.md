@@ -1,4 +1,6 @@
-<img alt="Yorha Bunker" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpqaHU3OTVjZ2l6bGJoYmRldTJnZnZxemp2NmdiYzZycmppdXRtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqkuqNBLpFxmbBhYR1/giphy.gif" width="100%" align="center"/>
+<div align="center">
+  <img alt="Yorha Bunker" src="https://media.giphy.com/media/jqkuqNBLpFxmbBhYR1/giphy.gif" width="100%" />
+</div>
 
 <div align="center">
   <h1>_𝘱𝘳𝘪𝘯𝘵("𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥! 𝘐'𝘮 𝘑𝘰𝘴𝘦𝘱𝘩!")_</h1>
@@ -44,11 +46,10 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
-<div align="right">
-### 💻 &nbsp;𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘖𝘯...
 
+### 💻 &nbsp;𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘖𝘯...
 ![](https://github-contributor-stats.vercel.app/api?username=Jarenas-py&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
+<hr>
 
 ### 🤝🏻 &nbsp;𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦
 
