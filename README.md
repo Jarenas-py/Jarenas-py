@@ -6,16 +6,18 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <img alt="9s Fist Bump" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGltcHEzMGlhMnExNjFwdDZjaHRwajl6NHY1bHcxZW9hZzc4ZG41dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uU5A1TcwwU5Og/giphy.gif" width="20%" height="20%" align="right"/>
-### 🧠 &nbsp;AI, Deep Learning & Machine Learning Enthusiast
-  I am a developer on a journey into the world of Artificial Intelligence. My focus is on understanding the math behind the models and writing clean, efficient code for Deep Learning applications.
-  
-  Areas of Interest:
-    - Machine Learning (Supervised/Unsupervised)<br>
-    - Deep Learning & Neural Networks<br>
-    - Natural Language Processing<br>
-    - Data Science & Analytics
+### 🧠 &nbsp;𝔸𝕀, 𝔻𝕖𝕖𝕡 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 & 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥
 
-### 🛠 &nbsp;Tech Stack
+I am a developer on a journey into the world of Artificial Intelligence. My focus is on understanding the math behind the models and writing clean, efficient code for Deep Learning applications.
+  
+  𝔸𝕣𝕖𝕒𝕤 𝕠𝕗 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥:
+    
+  - Machine Learning (Supervised/Unsupervised)<br>
+  - Deep Learning & Neural Networks<br>
+  - Natural Language Processing<br>
+  - Data Science & Analytics
+
+### 🛠 &nbsp;𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -26,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;𝔾𝕚𝕥ℍ𝕦𝕓 𝔸𝕟𝕒𝕝𝕪𝕥𝕚𝕔𝕤
 
 <p align="center">
 <a href="https://github.com/Jarenas-py">
@@ -35,7 +37,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕄𝕖
 
 <p align="left">
 <a href="https://www.linkedin.com/in/joseph-arenas-919564327/"><img src="https://img.shields.io/badge/-Joseph%20Arenas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
