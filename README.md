@@ -1,4 +1,4 @@
-<img alt="Yorha Bunker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lwZ2M1YWJzbHdhYmZ3cmpzb3A0YWgxZmk0ZTFnejFxZGwwZzZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5j7F8mQgNgoqGqSKBD/giphy.gif" align="center"/>
+<img alt="Yorha Bunker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lwZ2M1YWJzbHdhYmZ3cmpzb3A0YWgxZmk0ZTFnejFxZGwwZzZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5j7F8mQgNgoqGqSKBD/giphy.gif" width="100%" align="center"/>
 
 <div align="center">
   <h2>print("Hello world! I'm Joseph!")</h2>
