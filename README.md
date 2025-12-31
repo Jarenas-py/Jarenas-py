@@ -15,7 +15,7 @@
     - Natural Language Processing<br>
     - Data Science & Analytics
 
-<img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGltcHEzMGlhMnExNjFwdDZjaHRwajl6NHY1bHcxZW9hZzc4ZG41dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uU5A1TcwwU5Og/giphy.gif" align="right"/>
+<img alt="9s Fist Bump" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGltcHEzMGlhMnExNjFwdDZjaHRwajl6NHY1bHcxZW9hZzc4ZG41dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uU5A1TcwwU5Og/giphy.gif" width="50%" height="50%" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
