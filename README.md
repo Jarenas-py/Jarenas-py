@@ -44,10 +44,11 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
-
+<div align="right">
 ### 💻 &nbsp;𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘖𝘯...
 
 ![](https://github-contributor-stats.vercel.app/api?username=Jarenas-py&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ### 🤝🏻 &nbsp;𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦
 
