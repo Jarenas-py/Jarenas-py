@@ -1,7 +1,7 @@
 <img alt="Yorha Bunker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lwZ2M1YWJzbHdhYmZ3cmpzb3A0YWgxZmk0ZTFnejFxZGwwZzZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5j7F8mQgNgoqGqSKBD/giphy.gif" width="100%" align="center"/>
 
 <div align="center">
-  <h1>𝕡𝕣𝕚𝕟𝕥("ℍ𝕖𝕝𝕝𝕠 𝕨𝕠𝕣𝕝𝕕! 𝕀'𝕞 𝕁𝕠𝕤𝕖𝕡𝕙!")</h1>
+  <h1>𝙥𝙧𝙞𝙣𝙩("𝙃𝙚𝙡𝙡𝙤 𝙬𝙤𝙧𝙡𝙙! 𝙄'𝙢 𝙅𝙤𝙨𝙚𝙥𝙝!")</h1>
 </div>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
