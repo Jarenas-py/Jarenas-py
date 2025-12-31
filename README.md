@@ -37,7 +37,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/joseph-arenas-919564327/"><img src="https://img.shields.io/badge/-Joseph%20Arenas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/GnngMstr"><img src="https://img.shields.io/badge/-@GnngMstr-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
