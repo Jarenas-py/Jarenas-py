@@ -1,6 +1,8 @@
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>print("Hello world! I'm Joseph!")</h2>
+<div align=center">
+<h2>print("Hello world! I'm Joseph!")</h2>
+</div>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
