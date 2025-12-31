@@ -1,6 +1,6 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lwZ2M1YWJzbHdhYmZ3cmpzb3A0YWgxZmk0ZTFnejFxZGwwZzZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5j7F8mQgNgoqGqSKBD/giphy.gif
 
-<div align=center">
+<div align="center">
 <h2>print("Hello world! I'm Joseph!")</h2>
 </div>
 
