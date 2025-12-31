@@ -1,14 +1,13 @@
 <img alt="Yorha Bunker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lwZ2M1YWJzbHdhYmZ3cmpzb3A0YWgxZmk0ZTFnejFxZGwwZzZ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5j7F8mQgNgoqGqSKBD/giphy.gif" width="100%" align="center"/>
 
 <div align="center">
-  <h2>𝕡𝕣𝕚𝕟𝕥("ℍ𝕖𝕝𝕝𝕠 𝕨𝕠𝕣𝕝𝕕! 𝕀'𝕞 𝕁𝕠𝕤𝕖𝕡𝕙!")</h2>
+  <h1>𝕡𝕣𝕚𝕟𝕥("ℍ𝕖𝕝𝕝𝕠 𝕨𝕠𝕣𝕝𝕕! 𝕀'𝕞 𝕁𝕠𝕤𝕖𝕡𝕙!")</h1>
 </div>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <img alt="9s Fist Bump" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGltcHEzMGlhMnExNjFwdDZjaHRwajl6NHY1bHcxZW9hZzc4ZG41dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uU5A1TcwwU5Og/giphy.gif" width="20%" height="20%" align="right"/>
-🧠 &nbsp;𝔸𝕀, 𝔻𝕖𝕖𝕡 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 & 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥
+<h2>🧠 &nbsp;𝔸𝕀, 𝔻𝕖𝕖𝕡 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 & 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥<h2>
 
-<br></br>
 I am a developer on a journey into the world of Artificial Intelligence. My focus is on understanding the math behind the models and writing clean, efficient code for Deep Learning applications.
   
   𝔸𝕣𝕖𝕒𝕤 𝕠𝕗 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥:
