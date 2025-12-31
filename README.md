@@ -4,7 +4,7 @@
   <h1>𝘱𝘳𝘪𝘯𝘵("𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥! 𝘐'𝘮 𝘑𝘰𝘴𝘦𝘱𝘩!")</h1>
 </div>
 
-![My Local GIF](./assets/9s_Bump.gif)
+<img alt="9s Fist Bump" src="./assets/9s_Bump.gif" width="25%" align="right"/>
 
 🧠 &nbsp;𝘈𝘐, 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 & 𝘋𝘦𝘦𝘱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵. I am a developer on a journey into the world of Artificial Intelligence. My focus is on understanding the math behind the models and writing clean, efficient code for Deep Learning applications.<br></br>
   
