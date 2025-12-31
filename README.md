@@ -6,7 +6,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <img alt="9s Fist Bump" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGltcHEzMGlhMnExNjFwdDZjaHRwajl6NHY1bHcxZW9hZzc4ZG41dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uU5A1TcwwU5Og/giphy.gif" width="20%" height="20%" align="right"/>
-<p border-width="20px"> 🧠 &nbsp;𝘈𝘐, 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 & 𝘋𝘦𝘦𝘱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵. I am a developer on a journey into the world of Artificial Intelligence. My focus is on understanding the math behind the models and writing clean, efficient code for Deep Learning applications.<br></br>
+🧠 &nbsp;𝘈𝘐, 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 & 𝘋𝘦𝘦𝘱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵. I am a developer on a journey into the world of Artificial Intelligence. My focus is on understanding the math behind the models and writing clean, efficient code for Deep Learning applications.<br></br>
   
   𝘈𝘳𝘦𝘢𝘴 𝘰𝘧 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵:
     
@@ -14,7 +14,6 @@
   - Deep Learning & Neural Networks<br>
   - Natural Language Processing<br>
   - Data Science & Analytics
-</p>
 <hr>
 
 ### ⚙️ &nbsp;𝘎𝘪𝘵𝘏𝘶𝘣 𝘈𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴
