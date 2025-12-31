@@ -1,6 +1,4 @@
-<div align="center">
-  <img alt="Yorha Bunker" src="https://media.giphy.com/media/jqkuqNBLpFxmbBhYR1/giphy.gif" width="100%" />
-</div>
+![Giphy Animation](https://media.giphy.com/media/jqkuqNBLpFxmbBhYR1/giphy.gif)
 
 <div align="center">
   <h1>𝘱𝘳𝘪𝘯𝘵("𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥! 𝘐'𝘮 𝘑𝘰𝘴𝘦𝘱𝘩!")</h1>
