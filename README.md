@@ -27,6 +27,7 @@
 
 ### 📜 &nbsp; Certifications
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/3b2e8b3d-361c-4084-b102-e376482288a8" title="Python Essentials 1"><img src="https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/e5e38bdf-d5a9-41b8-9b30-551c442232df" title="Introduction to Modern AI"><img src="https://images.credly.com/size/80x80/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" alt="Introduction to Modern AI" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/445683ed-e720-4480-866c-ba9be90041c8" title="AI Fundamentals with IBM SkillsBuild"><img src="https://images.credly.com/size/80x80/images/26c21273-c0ab-485b-98a7-f1212dcb82b8/image.png" alt="AI Fundamentals with IBM SkillsBuild" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/2c2a9e30-f0b2-4171-9d53-ffd4830e8925" title="Artificial Intelligence Fundamentals"><img src="https://images.credly.com/size/80x80/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="Artificial Intelligence Fundamentals" width="80" height="80"></a>
