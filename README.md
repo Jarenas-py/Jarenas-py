@@ -28,15 +28,15 @@
 ### 📜 &nbsp; Certifications
 <!--START_SECTION:badges-->
 [![AI Literacy](https://images.credly.com/size/80x80/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png)](https://www.credly.com/badges/f3b57498-8d6e-4ab9-89b1-ac8246cc92e9)
+[![Generative AI Essentials: Using LLMs to Work with Data](https://images.credly.com/size/80x80/images/f3f8fc51-e8e4-4b1e-b9a9-44100cf3c465/Generative_20AI_20Essentials_20Using_20LLMs_20to_20Work_20with_20Data.png)](https://www.credly.com/badges/b8ec3c79-3d5e-433b-b601-092503be9e10)
+[![Generative AI in Action](https://images.credly.com/size/80x80/images/8d1fe454-ecd2-40c1-b79f-b97ad326f8ea/Generative_20AI_20in_20action.png)](https://www.credly.com/badges/bde9c1cd-1181-40ea-b100-20ef10f5fb70)
+[![Retrieval-Augmented Generation for Enhanced AI Outputs](https://images.credly.com/size/80x80/images/2dbf6354-48b2-4fa6-b350-8944a15f82de/Retrieval-Augmented_20Generation_20for_20Enhanced_20AI_20Outputs.png)](https://www.credly.com/badges/294fb20b-becd-40eb-8fe9-a2556c3edb9e)
 [![Python Essentials 2](https://images.credly.com/size/80x80/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png)](https://www.credly.com/badges/b15c2142-8666-48a5-8cc7-9d53f482d7e6)
 [![AI Fundamentals: Foundations for Understanding AI](https://images.credly.com/size/80x80/images/e0644ccc-dd87-4e27-82e4-0facf461cd1f/AI_20Fundamentals_20Foundations_20for_20Understanding_20AI.png)](https://www.credly.com/badges/4c35e644-edec-4e93-b117-9b4db01ee15e)
 [![AI Fundamentals: Foundations for Understanding AI](https://images.credly.com/size/80x80/images/fa29f782-3029-44f9-9fb1-631c3278a68a/blob)](https://www.credly.com/badges/b56274d0-2f8a-4d25-adf9-1537d4e73ac5)
 [![AI Fundamentals: Language and Vision in AI](https://images.credly.com/size/80x80/images/1c760850-837a-4ffd-bf17-83dee11b1c77/BadgeEmblem_AIFundamentalsLanguageAndVisionInAI.png)](https://www.credly.com/badges/b519351c-00ab-4606-94a7-883232eb34d4)
 [![AI Fundamentals: Language and Vision in AI](https://images.credly.com/size/80x80/images/c4383b39-473a-4fb1-ae0c-c0f4d445191f/blob)](https://www.credly.com/badges/fe03ddd2-0d94-446a-ac09-9591b26c423a)
 [![Python Essentials 1](https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/3b2e8b3d-361c-4084-b102-e376482288a8)
-[![Introduction to Modern AI](https://images.credly.com/size/80x80/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob)](https://www.credly.com/badges/e5e38bdf-d5a9-41b8-9b30-551c442232df)
-[![AI Fundamentals with IBM SkillsBuild](https://images.credly.com/size/80x80/images/26c21273-c0ab-485b-98a7-f1212dcb82b8/image.png)](https://www.credly.com/badges/445683ed-e720-4480-866c-ba9be90041c8)
-[![Artificial Intelligence Fundamentals](https://images.credly.com/size/80x80/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](https://www.credly.com/badges/2c2a9e30-f0b2-4171-9d53-ffd4830e8925)
 <!--END_SECTION:badges-->
 <hr>
 
