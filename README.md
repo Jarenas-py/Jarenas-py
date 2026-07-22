@@ -27,6 +27,7 @@
 
 ### 📜 &nbsp; Certifications
 <!--START_SECTION:badges-->
+[![AI Literacy](https://images.credly.com/size/80x80/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png)](https://www.credly.com/badges/f3b57498-8d6e-4ab9-89b1-ac8246cc92e9)
 [![Python Essentials 2](https://images.credly.com/size/80x80/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png)](https://www.credly.com/badges/b15c2142-8666-48a5-8cc7-9d53f482d7e6)
 [![AI Fundamentals: Foundations for Understanding AI](https://images.credly.com/size/80x80/images/e0644ccc-dd87-4e27-82e4-0facf461cd1f/AI_20Fundamentals_20Foundations_20for_20Understanding_20AI.png)](https://www.credly.com/badges/4c35e644-edec-4e93-b117-9b4db01ee15e)
 [![AI Fundamentals: Foundations for Understanding AI](https://images.credly.com/size/80x80/images/fa29f782-3029-44f9-9fb1-631c3278a68a/blob)](https://www.credly.com/badges/b56274d0-2f8a-4d25-adf9-1537d4e73ac5)
